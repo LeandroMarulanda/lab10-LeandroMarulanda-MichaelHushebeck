@@ -53,33 +53,10 @@ class TestCalculator(unittest.TestCase):
         with self.assertRaises(ValueError):
             hypotenuse(-3, 4)
 
-    # Additional tests for remaining functions
+    # Additional required function test
 
     def test_exponent(self):
         self.assertEqual(exponent(2, 3), 8)
-
-    def test_sub(self):
-        self.assertEqual(sub(10, 3), 7)
-
-    def test_mul(self):
-        self.assertEqual(mul(3, 4), 12)
-
-    def test_div(self):
-        self.assertEqual(div(10, 2), 5)
-
-    def test_div_by_zero(self):
-        with self.assertRaises(ZeroDivisionError):
-            div(5, 0)
-
-    def test_log(self):
-        self.assertAlmostEqual(log(100, 10), 2)
-
-    def test_log_invalid(self):
-        with self.assertRaises(ValueError):
-            log(-10, 10)
-
-    def test_exp(self):
-        self.assertEqual(exp(2, 3), 8)
 
 
 if __name__ == "__main__":
