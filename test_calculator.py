@@ -1,4 +1,4 @@
-# Repository:
+# Repository: https://github.com/LeandroMarulanda/lab11-LeandroMarulanda-MichaelHushebeck/blob/main/test_calculator.py
 # Partner 1: Leandro Marulanda
 # Partner 2: Michael Hushebeck
 
