@@ -1,4 +1,4 @@
-# Repository: https://github.com/LeandroMarulanda/lab11-LeandroMarulanda-MichaelHushebeck
+# Repository: https://github.com/LeandroMarulanda/lab10-LeandroMarulanda-MichaelHushebeck
 # Partner 1: Leandro Marulanda
 # Partner 2: Michael Hushebeck
 
